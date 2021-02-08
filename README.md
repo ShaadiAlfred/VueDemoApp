@@ -1,24 +1,8 @@
-# demo
+# SPA for consuming todo and photos API
 
-## Project setup
-```
-npm install
-```
+## Tools
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+  - [VueJS 2](https://vuejs.org/)
+  - [Vuetify](https://vuetifyjs.com/en/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://app.netlify.com/sites/vue-demo-app1/overview
