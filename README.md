@@ -7,4 +7,4 @@
   - [Vue Router](https://router.vuejs.org/)
   - [Vuex](https://vuex.vuejs.org/)
 
-https://app.netlify.com/sites/vue-demo-app1/overview
+https://vue-demo-app1.netlify.app/
